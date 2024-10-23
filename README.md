@@ -8,3 +8,5 @@ I'm a hobbyist programmer from the UK. I first began programming during lockdown
 
 ## Fluent In
 ![languages/frameworks/tools I'm fluent in](https://skillicons.dev/icons?i=c,cpp,javascript,html,java)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=auxy6858)](https://github.com/anuraghazra/github-readme-stats)
