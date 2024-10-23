@@ -4,13 +4,15 @@ I'm a hobbyist programmer from the UK. I first began programming during lockdown
 # My Skills
 
 ## Mastered
-![languages/frameworks/tools I excel in](https://skillicons.dev/icons?i=python,cs,dotnet,linux,windows)
+![languages/frameworks/tools I excel in](https://skillicons.dev/icons?i=python,cs,dotnet,linux,debian,windows,vscode,rider,pycharm,figma,github)
 
 ## Decent With
-![languages/frameworks/tools I'm fluent in](https://skillicons.dev/icons?i=c,cpp,javascript,html,java,powershell)
+![languages/frameworks/tools I'm comfortable using](https://skillicons.dev/icons?i=c,cpp,bun,javascript,scss,css,html,java,git,powershell,visualstudio)
 
 ## Learning
-![languages/frameworks/tools I'm still learning to use](https://skillicons.dev/icons?i=react, )
+![languages/frameworks/tools I'm still learning to use](https://skillicons.dev/icons?i=react,docker,rust,pkl,ruby,zig,go,qt)
+
+## My Stats
 
 |![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auxy6858&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)|![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auxy6858&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true)|
 |-|-|
