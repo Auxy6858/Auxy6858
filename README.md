@@ -3,7 +3,7 @@ I'm a hobbyist programmer from the UK. I first began programming during lockdown
 
 # My Skills
 
-## Mastered
+## Proficient With
 ![languages/frameworks/tools I excel in](https://skillicons.dev/icons?i=cs,dotnet,python,linux,debian,windows,vscode,rider,pycharm,idea,webstorm,figma,github&theme=light)
 
 ## Decent With
