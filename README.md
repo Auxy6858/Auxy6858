@@ -7,7 +7,7 @@ I'm a hobbyist programmer from the UK. I first began programming during lockdown
 ![languages/frameworks/tools I excel in](https://skillicons.dev/icons?i=cs,dotnet,python,linux,debian,windows,vscode,rider,pycharm,idea,webstorm,figma,github&theme=light)
 
 ## Decent With
-![languages/frameworks/tools I'm comfortable using](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,scss,css,html,git,bun,npm,java,powershell,visualstudio,neovim&theme=light)
+![languages/frameworks/tools I'm comfortable using](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,scss,css,html,git,bun,deno,npm,java,powershell,visualstudio,neovim&theme=light)
 
 ## Learning
 ![languages/frameworks/tools I'm still learning to use](https://skillicons.dev/icons?i=wasm,docker,go,rust,ruby,react,pkl,zig,qt,htmx,cmake,bash&theme=light)
