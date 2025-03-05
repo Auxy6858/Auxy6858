@@ -11,6 +11,7 @@ I'm a hobbyist programmer from the UK. I first began programming during lockdown
 
 ## Learning
 ![languages/frameworks/tools I'm still learning to use](https://skillicons.dev/icons?i=wasm,docker,go,rust,ruby,react,pkl,zig,qt,htmx,cmake,bash&theme=light)
+<img src="https://github.com/NationalSecurityAgency/ghidra/raw/refs/heads/master/Ghidra/RuntimeScripts/Windows/support/ghidra.ico" alt="ghidra" width="45px">
 
 ## My Stats
 
