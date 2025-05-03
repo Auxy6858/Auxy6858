@@ -12,8 +12,7 @@ I'm a hobbyist programmer from the UK. I first began programming during lockdown
 ![languages/frameworks/tools I'm comfortable using](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,javascript,typescript,scss,css,html,git,bun,deno,npm,java,powershell,visualstudio,neovim&theme=light)
 
 ## Learning
-![languages/frameworks/tools I'm still learning to use](https://go-skill-icons.vercel.app/api/icons?i=wasm,docker,go,d,rust,ruby,react,pkl,zig,qt,htmx,cmake,bash,odin,lua&theme=light)
-<img src="https://github.com/NationalSecurityAgency/ghidra/raw/refs/heads/master/Ghidra/RuntimeScripts/Windows/support/ghidra.ico" alt="ghidra" width="45px">
+![languages/frameworks/tools I'm still learning to use](https://go-skill-icons.vercel.app/api/icons?i=wasm,docker,ruby,go,d,rust,react,pkl,zig,qt,htmx,cmake,bash,odin,lua,kotlin&theme=light)
 
 ## My Stats
 
