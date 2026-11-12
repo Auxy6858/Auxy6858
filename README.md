@@ -4,4 +4,11 @@ I'm a programmer from the UK. I first began programming during the Covid 19 pand
 Since then I have gained an in depth understanding of systems level programming. In my free time I browse language documentation, study different runtimes and develop my own language [FIN](https://github.com/auxy6858/fin). 
 
 # My favourite languages to use: 
-![My favourite languages](https://go-skill-icons.vercel.app/api/icons?i=c,cs,d,swift,assembly,react,rust,odin&theme=light)
+![My favourite languages](https://skillicons.dev/icons?i=c,cs&theme=light)
+
+
+# Other languages I'm good in: 
+![My favourite languages](https://skillicons.dev/icons?i=python,javascript,typescript,rust,java,kotlin,swift&theme=light)
+
+# Tools and Frameworks I use:
+![Frameworks and libraries](https://skillicons.dev/icons?i=nodejs,bun,dotnet,react,sqlite)
